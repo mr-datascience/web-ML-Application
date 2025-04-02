@@ -1,0 +1,4 @@
+Flask
+joblib  # Or pickle
+scikit-learn # Or tensorflow, pandas, numpy etc.
+gunicorn #for Heroku deployment
